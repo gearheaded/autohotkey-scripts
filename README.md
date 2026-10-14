@@ -1,6 +1,6 @@
 # VimNav
 
-Vim-inspired keyboard navigation and productivity shortcuts for Windows, built with AutoHotkey.
+Vim-style navigation everywhere, without leaving the home row or switching editing modes.
 
 VimNav transforms `CapsLock` into a modifier key for navigating, selecting, and editing text without moving your hands away from the home row. It also provides shortcuts for text manipulation, inserting dates and timestamps, searching the web, and managing windows.
 
@@ -84,6 +84,6 @@ All keybindings and functionality are defined in `vimnav.ahk`. Open the script i
 
 ## Credits
 
-The original CapsLock navigation concept was developed by **Philipp Otto**, as described in [this Lifehacker article](https://lifehacker.com/5277383/use-caps-lock-for-hand-friendly-text-navigation).
+Inspired by Philipp Otto's [2009 CapsLock navigation script](https://lifehacker.com/5277383/use-caps-lock-for-hand-friendly-text-navigation), VimNav adapts the concept to Vim-style movement keys and extends it with text editing, selection, and productivity shortcuts.
 
 Extended and maintained by [gearheaded](https://github.com/gearheaded).
