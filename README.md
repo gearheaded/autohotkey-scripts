@@ -4,8 +4,6 @@ Vim-style navigation everywhere, without leaving the home row or switching editi
 
 VimNav transforms `CapsLock` into a modifier key for navigating, selecting, and editing text without moving your hands away from the home row. It also provides shortcuts for text manipulation, inserting dates and timestamps, searching the web, and managing windows.
 
-Inspired by [Philipp Otto's original CapsLock navigation concept](https://lifehacker.com/5277383/use-caps-lock-for-hand-friendly-text-navigation), VimNav has been extended with additional navigation and productivity features.
-
 ## Keybindings
 
 Hold `CapsLock` together with the following keys.
